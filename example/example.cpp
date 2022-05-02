@@ -1,8 +1,8 @@
-#include <lib.h>
+#include "../include/SomeClass.h"
 
 int main()
 {
-	Test t;
+	SomeClass t;
 	t.func();
 
 	return 0;
